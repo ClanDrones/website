@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="https://clandrones.com/sitemap.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc title="Miembros">https://clandrones.com/miembros</loc>
+  </url>
+  <url>
     <loc title="Acerca-de-nosotros">https://clandrones.com/acerca-de-nosotros</loc>
   </url>
   <url>
-    <loc title="Contacto">https://clandrones.com/contacto</loc>
+    <loc title="Corysback">https://clandrones.com/posts/corysback</loc>
+    <lastmod>2024-08-04</lastmod>
+  </url>
+  <url>
+    <loc title="Zero">https://clandrones.com/posts/zero</loc>
+    <lastmod>2024-08-04</lastmod>
   </url>
 </urlset>
