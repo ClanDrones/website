@@ -1,0 +1,10 @@
+siteName: Clan Drones
+siteDesc: This is Clan Drones site, come take a look
+author:
+  name: Zero
+  site: https://floresbenavides.com buy me a coffe
+siteUrl: https://clandrones.com
+cname: clandrones.com
+pagess:  # this node is optional
+  Home: /
+  Blog: /blog
