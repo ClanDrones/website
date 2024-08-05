@@ -1,4 +1,3 @@
 for uri, page in pages
-  div
-    a(href=`${uri}`)
-      span #{page.replace(/-/g, ' ')}
+  a(href=`${uri}`).item
+    span #{page.replace(/-/g, ' ')}

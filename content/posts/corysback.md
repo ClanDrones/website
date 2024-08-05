@@ -9,6 +9,12 @@ meta:
     - premium
 
 # Corysback
-![corysback](!{siteUrl}/content/images/corysback.jpg)
+**Nombre:** Corysback
 
-su info
+**Localidad:** Quintana Roo, México
+
+**Drone:** Mini 4 Pro
+
+**Instagram:** [mrCorysback](https://instagram.com/mrcorysback)
+
+**Miembro desde:** 2024

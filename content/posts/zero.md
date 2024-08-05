@@ -9,6 +9,13 @@ meta:
     - premium
 
 # Zero
-![zero](!{siteUrl}/content/images/zero.jpg)
 
-su info
+**Nombre:** Zero
+
+**Localidad:** Querétaro, México
+
+**Drone:** Mini 3
+
+**Instagram:** [xZeroDragonx](https://instagram.com/xzerodragonx)
+
+**Miembro desde:** 2024

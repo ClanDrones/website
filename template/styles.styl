@@ -88,6 +88,23 @@ h2
 .container, .xml
   margin: 20px
 
+.content .postLayout
+  display: flex
+  justify-content: space-between
+  img
+    max-width: 50%
+  .post
+    flex-grow: 1
+    margin-right: 20px
+    text-align: right
+
+.sidebar
+  border-left: 1px solid var(--secondary)
+  padding-left: 20px
+  .item
+    display: block
+    padding: 5px 0
+
 .content, .xml
   display: flex
   flex-direction: column
@@ -104,8 +121,6 @@ h2
     border-radius: 10px
     display: block
     margin: auto
-  h2
-    border-bottom: 2px solid var(--secondary)
   p
     line-height: 1.3em
   p > code
