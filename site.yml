@@ -5,6 +5,6 @@ author:
   site: https://floresbenavides.com buy me a coffe
 siteUrl: https://clandrones.com
 cname: clandrones.com
-pagess:  # this node is optional
-  Home: /
-  Blog: /blog
+pages:  # this node is optional
+  Acerca-de-nosotros: /acerca-de-nosotros
+  Contacto: /contacto
