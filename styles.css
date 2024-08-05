@@ -1,13 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 :root {
-  --primary: #f2994a;
-  --fill: #444654;
-  --fillWhiten: #64677c;
-  --fillDarken: #30313b;
-  --white: #fafafa;
-  --whiteDarken: #afafaf;
-  --secondary: #4ea9d0;
-  --contrast: #e63946;
+  --primary: #58a4b0;
+  --secondary: #373f51;
+  --tertiary: #a9bcd0;
+  --foreground: #1b1b1e;
+  --light: #d8dbe2;
+  --background: #d8dbe2;
 }
 *:not(ul,
 ol,
@@ -17,8 +15,8 @@ li) {
   padding: 0;
 }
 body {
-  background-color: var(--fill);
-  color: var(--white);
+  background-color: var(--background);
+  color: var(--foreground);
   font-family: 'Roboto', sans-serif;
   min-height: 100vh;
   display: flex;
@@ -26,10 +24,10 @@ body {
 }
 a {
   text-decoration: none;
-  color: var(--secondary);
+  color: var(--primary);
 }
 a:hover {
-  color: var(--contrast);
+  color: var(--tertiary);
 }
 a,
 p.link {
@@ -39,6 +37,11 @@ header {
   position: relative;
   border-bottom: 1px solid var(--secondary);
   background-color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 150px;
+  padding: 20px;
 }
 header:before {
   position: absolute;
@@ -51,54 +54,26 @@ header:before {
   background-size: cover;
   opacity: 0.3;
 }
-header .homeTitle {
+header .expansor {
+  flex-grow: 1;
+}
+header a {
   position: relative;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  height: 150px;
 }
-header .homeTitle img {
-  width: 50px;
-  height: 50px;
-  margin-bottom: 5px;
+header a img {
+  width: 120px;
+  height: 120px;
 }
-header .homeTitle span {
+header a span {
+  font-size: 1.2em;
+  margin-left: 20px;
+}
+header a.homeTitle span {
   font-size: 2em;
   font-weight: 700;
   letter-spacing: 1px;
-}
-nav.navigation {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  height: 60px;
-}
-nav.navigation ul,
-nav.navigation li {
-  margin: 0;
-  padding: 0;
-}
-nav.navigation ul {
-  list-style: none;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-}
-nav.navigation a {
-  display: inline-block;
-  padding: 10px 0;
-  margin: 0 6px;
-  background-color: var(--contrast);
-  min-width: 100px;
-  text-align: center;
-  color: var(--white);
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
-}
-nav.navigation a:hover {
-  padding-top: 20px;
 }
 footer {
   border-top: 1px solid var(--secondary);
@@ -107,16 +82,14 @@ footer {
   margin-top: auto;
 }
 h1 {
-  color: var(--primary);
+  color: var(--secondary);
 }
 h2 {
-  color: var(--secondary);
+  color: var(--foreground);
 }
 .content,
 .xml {
-  max-width: 1200px;
-  margin: 0 auto 20px auto;
-  padding: 0 20px;
+  margin: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -145,7 +118,7 @@ h2 {
 }
 .content h2,
 .xml h2 {
-  border-bottom: 2px solid var(--fillDarken);
+  border-bottom: 2px solid var(--secondary);
 }
 .content p,
 .xml p {
@@ -153,7 +126,7 @@ h2 {
 }
 .content p > code,
 .xml p > code {
-  background-color: var(--fillWhiten);
+  background-color: var(--light);
   padding: 2px 4px;
   border-radius: 4px;
 }
@@ -176,7 +149,7 @@ h2 {
 .content pre,
 .xml pre {
   width: 100%;
-  background-color: var(--fillDarken);
+  background-color: var(--secondary);
   padding: 10px;
   margin: 0 auto;
   border-radius: 6px;
@@ -192,7 +165,7 @@ h2 {
 .content .postTags a,
 .xml .postTags a {
   --tagBg: var(--secondary);
-  --tagFg: var(--white);
+  --tagFg: var(--light);
   position: relative;
   background-color: var(--tagBg);
   display: inline-block;
@@ -240,11 +213,10 @@ h2 {
 }
 .blogList .card:hover p.link {
   text-decoration: underline;
-  color: var(--contrast);
+  color: var(--tertiary);
 }
 .blogList .blogContent {
   padding: 10px;
-  background-color: rgba(68,70,84,0.9);
   border-radius: 10px;
   width: 100%;
 }
@@ -265,7 +237,7 @@ h2 {
   text-overflow: ellipsis;
 }
 .blogList .excerpt {
-  color: var(--whiteDarken);
+  color: var(--light);
   margin-bottom: 10px;
 }
 .blogList .date {
