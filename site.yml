@@ -6,5 +6,6 @@ author:
 siteUrl: https://clandrones.com
 cname: clandrones.com
 pages:  # this node is optional
+  Miembros: /miembros
   Acerca-de-nosotros: /acerca-de-nosotros
   Contacto: /contacto

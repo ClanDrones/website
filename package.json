@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "sitecraft": "^1.1.13"
+  "dependencies": {
+    "sitecraft": "file:../SiteCraft"
   }
 }

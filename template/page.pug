@@ -3,6 +3,10 @@ head
 
 body
   include partials/header.pug
-  .content
-    |!{pageData}
+  .container
+    .content
+      |!{pageData}
+    .sidebar
+      h2 Secciones
+      include partials/sidebar.pug
   include partials/footer.pug
