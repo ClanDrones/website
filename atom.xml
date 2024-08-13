@@ -4,12 +4,28 @@
   <subtitle>This is Clan Drones site, come take a look</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Mon Aug 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Tue Aug 13 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
+  <entry>
+    <title>Saúl</title>
+    <link href="https://clandrones.com/posts/saul-ontiveros"/>
+    <id>https://clandrones.com/posts/saul-ontiveros</id>
+    <published>2024-08-13T00:00:00.000Z</published>
+    <updated>2024-08-13T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/saulontiveros.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Saúl&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Saúl Ontiveros&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Mini 3 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;El Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
   <entry>
     <title>Hugo Roberto</title>
     <link href="https://clandrones.com/posts/hugo-roberto"/>
