@@ -4,12 +4,28 @@
   <subtitle>This is Clan Drones site, come take a look</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Sun Aug 04 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Mon Aug 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
+  <entry>
+    <title>Roberto Villalobos</title>
+    <link href="https://clandrones.com/posts/roberto-villalobos"/>
+    <id>https://clandrones.com/posts/roberto-villalobos</id>
+    <published>2024-08-12T00:00:00.000Z</published>
+    <updated>2024-08-12T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/roberto-villalobos.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Roberto Villalobos&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Señor Matanza&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Quintana Roo, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Mini 2 SE&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;El Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Admin del grupo</summary>
+  </entry>
   <entry>
     <title>Corysback</title>
     <link href="https://clandrones.com/posts/corysback"/>
