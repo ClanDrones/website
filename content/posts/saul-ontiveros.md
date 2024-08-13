@@ -2,7 +2,7 @@ meta:
   title: Saúl
   date: 20240813
   author: Miembro
-  image: /content/images/saulontiveros.jpg
+  image: /content/images/saul-ontiveros.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
