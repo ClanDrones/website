@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href='https://clandrones.com/rss.xsl' type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>Clan Drones</title>
-  <subtitle>This is Clan Drones site, come take a look</subtitle>
+  <subtitle>Somos un grupo de entuciastas de los drones con la finalidad de compartir conocimientos y experiencias.</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
   <updated>Tue Aug 13 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
