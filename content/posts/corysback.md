@@ -3,7 +3,7 @@ meta:
   date: 20240804
   author: Admin
   image: /content/images/corysback.jpg
-  excerpt: Fundador de Clan Drones
+  excerpt: El Fundador de Clan Drones
   tags:
     - miembro
     - premium
