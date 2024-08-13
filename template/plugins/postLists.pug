@@ -6,7 +6,7 @@
       style=`background-image: url(${siteUrl}${post.meta.image})`,
       class=`${(post.meta.tags || []).join(' ')}`
     )
-      .blogContent
+      .blogContent(class=`${post.meta.tags.includes('admin') ? 'admin': ''}`)
         h3.title
           p.postTitle #{post.meta.title}
         p.excerpt #{post.meta.excerpt}

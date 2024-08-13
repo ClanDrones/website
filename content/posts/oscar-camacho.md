@@ -6,7 +6,7 @@ meta:
   excerpt: Admin de Clan Drones
   tags:
     - miembro
-    - premium
+    - admin
 
 # Oscar Camacho
 **Nombre:** Oscar Camacho

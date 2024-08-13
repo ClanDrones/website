@@ -26,6 +26,19 @@
     border-radius: 10px
     width: 100%
     background-color: rgba(0, 0, 0, 0.7)
+    &.admin
+      position: relative
+      &:after
+        content: 'Admin'
+        position: absolute
+        top: 0
+        right: 0
+        background-color: var(--contrast)
+        color: var(--light)
+        padding: 5px
+        border-radius: 0 10px 0 10px
+        font-size: 12px
+        font-weight: bold
 
   .author
     font-size: 14px

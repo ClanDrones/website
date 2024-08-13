@@ -6,7 +6,7 @@ meta:
   excerpt: Fundador de Clan Drones
   tags:
     - miembro
-    - premium
+    - admin
 
 # Corysback
 **Nombre:** Corysback

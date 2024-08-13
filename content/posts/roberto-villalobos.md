@@ -6,7 +6,7 @@ meta:
   excerpt: Admin del grupo
   tags:
     - miembro
-    - premium
+    - admin
 
 # Roberto Villalobos
 **Nombre:** Señor Matanza

@@ -6,7 +6,6 @@ meta:
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
-    - premium
 
 # Saúl
 **Nombre:** Saúl Ontiveros
