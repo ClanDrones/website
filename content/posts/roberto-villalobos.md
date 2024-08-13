@@ -2,7 +2,7 @@ meta:
   title: Roberto Villalobos
   date: 20240812
   author: Admin
-  image: /content/images/roberto-villalobos.jpg
+  image: /content/images/roberto-villalobos2.jpg
   excerpt: Admin del grupo
   tags:
     - miembro
