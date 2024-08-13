@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "sitecraft": "^1.1.14"
+    "sitecraft": "^1.1.15"
   }
 }

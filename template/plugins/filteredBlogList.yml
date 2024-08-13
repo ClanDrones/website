@@ -1,0 +1,18 @@
+name: FilteredPostsLists
+description: 'List of blog posts with filters'
+definitions:
+  input: posts
+  template: postLists
+  transformations:
+    - type: filter
+      objective: tags
+      action:
+        type: excludes
+        value: miembro
+      shorthand: notmemberposts
+    - type: filter
+      objective: tags
+      action:
+        type: includes
+        value: miembro
+      shorthand: memberposts

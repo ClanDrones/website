@@ -2,4 +2,4 @@
 
 # Miembros Oficiales
 
-!{memberposts}
+!{notmemberposts}

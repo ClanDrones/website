@@ -5,15 +5,14 @@ body
   include partials/header.pug
   .container
     .content
-      .postLayout
-        .post
-          |!{pageData}
-        img(src=`${siteUrl}${image}`, alt=title)
-      //- .postTags
-        if tags
-          for tag in tags
-            a(href=`${siteUrl}/posts?tag=${tag}`) !{tag}
-    //- include plugins/comments.pug
+      if (tags && tags.includes('entrada'))
+        |!{pageData}
+      else
+        .postLayout
+          .post
+            |!{pageData}
+          img(src=`${siteUrl}${image}`, alt=title)
+      //- include plugins/comments.pug
     .sidebar
       h2 Secciones
       include partials/sidebar.pug

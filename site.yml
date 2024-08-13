@@ -7,5 +7,6 @@ siteUrl: https://clandrones.com
 cname: clandrones.com
 pages:  # this node is optional
   Miembros: /miembros
+  Entradas: /entradas
   Acerca-de-nosotros: /acerca-de-nosotros
   NOM-107: /NOM-107-SCT3-2019
