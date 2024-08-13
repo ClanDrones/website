@@ -11,6 +11,19 @@
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
   <entry>
+    <title>Bienvenidos</title>
+    <link href="https://clandrones.com/posts/Bienvenidos"/>
+    <id>https://clandrones.com/posts/Bienvenidos</id>
+    <published>2024-08-13T00:00:00.000Z</published>
+    <updated>2024-08-13T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//images/header.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Bienvenidos&lt;/h1&gt;
+&lt;p&gt;Este es el primer post en la comunidad de Clan Drones&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/header.jpg&quot; alt=&quot;header&quot;&gt;&lt;/p&gt;
+</content>
+    <summary>Este es mi primer post</summary>
+  </entry>
+  <entry>
     <title>Saúl</title>
     <link href="https://clandrones.com/posts/saul-ontiveros"/>
     <id>https://clandrones.com/posts/saul-ontiveros</id>
@@ -104,6 +117,6 @@
 &lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/xzerodragonx&quot;&gt;xZeroDragonx&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
-    <summary>Carlos Flores o &quot;Zero&quot; desde Querétaro</summary>
+    <summary>Admin del sitio</summary>
   </entry>
 </feed>
