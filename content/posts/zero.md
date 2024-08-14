@@ -2,7 +2,7 @@ meta:
   title: Zero
   date: 20240804
   author: Admin
-  image: /content/images/zero.jpg
+  image: /content/images/zero-dragon.jpg
   excerpt: Admin del sitio 
   tags:
     - miembro
