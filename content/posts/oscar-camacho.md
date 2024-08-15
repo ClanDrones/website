@@ -2,7 +2,7 @@ meta:
   title: Oscar Camacho
   date: 20240812
   author: Admin
-  image: /content/images/oscar-camacho2.jpg
+  image: /content/images/oscar-camacho.jpg
   excerpt: Admin de Clan Drones
   tags:
     - miembro
