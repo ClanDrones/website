@@ -4,31 +4,18 @@
   <subtitle>Somos un grupo de entuciastas de los drones con la finalidad de compartir conocimientos y experiencias.</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Tue Aug 13 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Wed Aug 14 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
   <entry>
-    <title>Bienvenidos</title>
-    <link href="https://clandrones.com/posts/Bienvenidos"/>
-    <id>https://clandrones.com/posts/Bienvenidos</id>
-    <published>2024-08-13T00:00:00.000Z</published>
-    <updated>2024-08-13T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//images/header.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Bienvenidos&lt;/h1&gt;
-&lt;p&gt;Este es el primer post en la comunidad de Clan Drones&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/header.jpg&quot; alt=&quot;header&quot;&gt;&lt;/p&gt;
-</content>
-    <summary>Este es mi primer post</summary>
-  </entry>
-  <entry>
     <title>Somos Clan Drones Internacional</title>
     <link href="https://clandrones.com/posts/clan-drones"/>
     <id>https://clandrones.com/posts/clan-drones</id>
-    <published>2024-08-13T00:00:00.000Z</published>
-    <updated>2024-08-13T00:00:00.000Z</updated>
+    <published>2024-08-14T00:00:00.000Z</published>
+    <updated>2024-08-14T00:00:00.000Z</updated>
     <media:thumbnail url="https://clandrones.com//content/images/clan-drones.jpg"></media:thumbnail>
     <content type="html">&lt;h1&gt;Bienvenidos&lt;/h1&gt;
 &lt;p&gt;No solo somos un sitio mas de droneros como cualquier otro, nosotros somos integrantes a nivel internacional
@@ -42,6 +29,19 @@
 &lt;p&gt;&lt;img src=&quot;/content/images/clan-drones.jpg&quot; alt=&quot;header&quot;&gt;&lt;/p&gt;
 </content>
     <summary>No solo somos un sitio mas de droneros como cualquier otro.</summary>
+  </entry>
+  <entry>
+    <title>Bienvenidos</title>
+    <link href="https://clandrones.com/posts/Bienvenidos"/>
+    <id>https://clandrones.com/posts/Bienvenidos</id>
+    <published>2024-08-13T00:00:00.000Z</published>
+    <updated>2024-08-13T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//images/header.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Bienvenidos&lt;/h1&gt;
+&lt;p&gt;Este es el primer post en la comunidad de Clan Drones&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/header.jpg&quot; alt=&quot;header&quot;&gt;&lt;/p&gt;
+</content>
+    <summary>Este es mi primer post</summary>
   </entry>
   <entry>
     <title>Saúl</title>
