@@ -1,6 +1,6 @@
 meta:
   title: Somos Clan Drones Internacional
-  date: 20240813
+  date: 20240814
   author: Admin
   image: /content/images/clan-drones.jpg
   excerpt: No solo somos un sitio mas de droneros como cualquier otro. 

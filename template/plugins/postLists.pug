@@ -1,7 +1,5 @@
 .blogList
-  each post in posts
-    - var date = post.meta.date
-    - var options = { year: 'numeric', month: 'short', day: 'numeric' }
+  each post in posts.sort((a, b) => b.meta.date - a.meta.date)
     .card(
       style=`background-image: url(${siteUrl}${post.meta.image})`,
       class=`${(post.meta.tags || []).join(' ')}`
