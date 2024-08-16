@@ -1,18 +1,18 @@
 meta:
-  title: Saúl
-  date: 20240813
+  title: Juan León
+  date: 20240815
   author: Miembro
-  image: /content/images/saul-ontiveros.jpg
+  image: /content/images/juan-leon.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
 
-# Saúl
-**Nombre:** Saúl Ontiveros
+# Juan León
+**Nombre:** Juan León
 
 **Localidad:** México
 
-**Drone:** Mini 3 
+**Drone:** Categoría Dji Mini 
 
 **Instagram:** [El Clan Drones](https://instagram.com/elclandrones)
 
