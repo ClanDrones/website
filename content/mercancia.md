@@ -22,4 +22,4 @@ meta:
 
 Gorras Oficiales
 
-![header](/images/gorra-clan.jpg)
+![header](/content/images/gorra-clan.jpg)
