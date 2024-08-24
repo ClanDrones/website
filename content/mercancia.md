@@ -3,7 +3,7 @@ meta:
   title: Gorra Clan Drones
   date: 20240824
   author: Miembro
-  image: /content/images/gorra-clan.jpg
+  image: /content/images/gorra-clan.png
   excerpt: Mercancía de Clan Drones
   tags:
     - mercancia
