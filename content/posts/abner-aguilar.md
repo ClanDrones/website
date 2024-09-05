@@ -2,7 +2,7 @@ meta:
   title: Abner Nehemias Aguilar Tziu
   date: 20240904
   author: Admin
-  image: /content/images/carlos-diaz.jpg
+  image: /content/images/abner-aguilar.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
