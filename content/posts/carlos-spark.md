@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner Carlos Rey Garcia Benavides
+# Carlos Rey Garcia Benavides
 **Nombre:** Carlos Rey Garcia Benavides
 
 **Localidad:** Cancún Quintana Roo, México
