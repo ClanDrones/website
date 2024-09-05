@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner David Cuevas
+# David Cuevas
 **Nombre:** David Cuevas
 
 **Localidad:** Cancún Quintana Roo, México
