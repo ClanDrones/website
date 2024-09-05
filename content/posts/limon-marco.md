@@ -10,7 +10,7 @@ meta:
 # Marco Antonio Limón Burgos
 **Nombre:** Marco Antonio Limón Burgos
 
-**Localidad:** Cancún, México
+**Localidad:** Puebla, México
 
 **Drone:** Dji Avata 2 
 
