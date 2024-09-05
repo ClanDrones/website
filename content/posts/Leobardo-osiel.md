@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner Leobardo Osiel López
+# Leobardo Osiel López
 **Nombre:** Leobardo Osiel López
 
 **Localidad:** Guadalajara Jalisco, México
