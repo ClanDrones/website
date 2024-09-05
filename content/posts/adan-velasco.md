@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner Adán Velasco
+# Adán Velasco
 **Nombre:** Adán Velasco
 
 **Localidad:** México
