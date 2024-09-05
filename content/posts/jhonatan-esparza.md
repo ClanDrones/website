@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner Jhonatan esparza Gardea
+# Jhonatan esparza Gardea
 **Nombre:** Jhonatan esparza Gardea
 
 **Localidad:** México
