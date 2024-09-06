@@ -1,16 +1,16 @@
 meta:
-  title: Andrés Vargas
-  date: 20240904
+  title: Joaquín Enrique Pérez González
+  date: 20240905
   author: Admin
-  image: /content/images/andres-vargas.jpg
+  image: /content/images/joaquin-enrique.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
 
-# Andrés Vargas
-**Nombre:** Andrés Vargas
+# Joaquín Enrique Pérez González
+**Nombre:** Joaquín Enrique Pérez González
 
-**Localidad:** Cancun Quintana Roo, México
+**Localidad:** México
 
 **Drone:** Dji Mini 4 Pro 
 
