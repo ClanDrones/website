@@ -10,7 +10,7 @@ meta:
 # Joaquín Enrique Pérez González
 **Nombre:** Joaquín Enrique Pérez González
 
-**Localidad:** México
+**Localidad:** Mérida Yucatán, México
 
 **Drone:** Dji Mini 4 Pro 
 
