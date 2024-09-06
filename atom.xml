@@ -4,12 +4,28 @@
   <subtitle>Somos un grupo de entuciastas de los drones con la finalidad de compartir conocimientos y experiencias.</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Wed Sep 04 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Thu Sep 05 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
+  <entry>
+    <title>Joaquín Enrique Pérez González</title>
+    <link href="https://clandrones.com/posts/andres-vargas"/>
+    <id>https://clandrones.com/posts/andres-vargas</id>
+    <published>2024-09-05T00:00:00.000Z</published>
+    <updated>2024-09-05T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/joaquin-enrique.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Joaquín Enrique Pérez González&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Joaquín Enrique Pérez González&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 4 Pro &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
   <entry>
     <title>Leobardo Osiel López</title>
     <link href="https://clandrones.com/posts/Leobardo-osiel"/>
@@ -53,22 +69,6 @@
 &lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Adán Velasco&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; México&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
-</content>
-    <summary>Miembro de Clan Drones</summary>
-  </entry>
-  <entry>
-    <title>Andrés Vargas</title>
-    <link href="https://clandrones.com/posts/andres-vargas"/>
-    <id>https://clandrones.com/posts/andres-vargas</id>
-    <published>2024-09-04T00:00:00.000Z</published>
-    <updated>2024-09-04T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/andres-vargas.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Andrés Vargas&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Andrés Vargas&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Cancun Quintana Roo, México&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 4 Pro &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
