@@ -1,14 +1,17 @@
 meta:
-  title: Bienvenidos
+  title: Drones Dji, igual a Calidad de Fotos y Video
   date: 20240813
   author: Admin
   image: /images/header.jpg
-  excerpt: Este es mi primer post
+  excerpt: Dji Significa Calidad de Foto y Video
   tags:
     - entrada
 
-# Bienvenidos
+# Drones Dji
 
-Este es el primer post en la comunidad de Clan Drones
+En definitiva los Drones Dji tienen una calidad superior a otras marcas.  
+Desde sus drones de gama inicial como el Spark hasta los mas avanzados y completos de la industria, no cabe duda que no hay un dron específico para ti.  
+Va a depender de tu presupuesto el decidir cual sera el mejor para ti.  
+
 
 ![header](/images/header.jpg)
