@@ -2,7 +2,7 @@
 
 # Clan Drones - Droneros DJI Internacional
 
-![](/images/header.JPG)
+![](/content/images/header2.JPG)
 
 ## Bienvenido | Welcome
 
