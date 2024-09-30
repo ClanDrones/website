@@ -10,7 +10,7 @@ meta:
 # Eduardo Ulloa De Loza
 **Nombre:** Eduardo Ulloa De Loza
 
-**Localidad:** México
+**Localidad:** MéxicoGuadalajara Jalisco México
 
 **Drone:** Dji Mini 3 y Dji Phantom 3 Pro 
 
