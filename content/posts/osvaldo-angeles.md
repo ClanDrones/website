@@ -1,6 +1,6 @@
 meta:
   title: Osvaldo Angeles Gómez 
-  date: 20240929
+  date: 20241027
   author: Admin
   image: /content/images/fancisco-castaneda.jpg
   excerpt: Miembro de Clan Drones
