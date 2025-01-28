@@ -12,7 +12,7 @@ meta:
 
 **Localidad:** Culiacán Sinaloa, México
 
-**Drone:** Dji Air 3S y Dji Avata 2
+**Drone:** Dji Air 3S . Dji Avata 2
 
 **Instagram:** [Clan Drones](https://instagram.com/elclandrones)
 
