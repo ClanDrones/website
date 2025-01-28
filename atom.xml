@@ -4,12 +4,28 @@
   <subtitle>Somos un grupo de entuciastas de los drones con la finalidad de compartir conocimientos y experiencias.</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Thu Oct 03 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Tue Jan 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
+  <entry>
+    <title>Roberto Alonso Niebla Navarrete</title>
+    <link href="https://clandrones.com/posts/roberto-niebla"/>
+    <id>https://clandrones.com/posts/roberto-niebla</id>
+    <published>2025-01-28T00:00:00.000Z</published>
+    <updated>2025-01-28T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/roberto-niebla.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Roberto Alonso Niebla Navarrete&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Roberto Alonso Niebla Navarrete&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Culiacán Sinaloa, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Air 3S y Dji Avata 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
   <entry>
     <title>Miriam Mejía Zamora</title>
     <link href="https://clandrones.com/posts/miriam-mejia"/>
@@ -153,22 +169,6 @@
 &lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Carlos Alberto Cabrera Pérez &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Zacualtipan de Ángeles Hidalgo&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 4 Pro &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
-</content>
-    <summary>Miembro de Clan Drones</summary>
-  </entry>
-  <entry>
-    <title>David Dávila Herrera</title>
-    <link href="https://clandrones.com/posts/david-avila"/>
-    <id>https://clandrones.com/posts/david-avila</id>
-    <published>2024-09-29T00:00:00.000Z</published>
-    <updated>2024-09-29T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/david-avila.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;David Dávila Herrera&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; David Dávila Herrera &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; CDMX&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mavic 3 Pro Cine &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
