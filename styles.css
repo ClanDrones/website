@@ -4,6 +4,7 @@
   --secondary: #373f51;
   --tertiary: #a9bcd0;
   --foreground: #1b1b1e;
+  --contrast: #c49044;
   --light: #d8dbe2;
   --background: #d8dbe2;
 }
@@ -220,6 +221,21 @@ h2 {
   border-radius: 10px;
   width: 100%;
   background-color: rgba(0,0,0,0.7);
+}
+.blogList .blogContent.admin {
+  position: relative;
+}
+.blogList .blogContent.admin:after {
+  content: 'Admin';
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: var(--contrast);
+  color: var(--light);
+  padding: 5px;
+  border-radius: 0 10px 0 10px;
+  font-size: 12px;
+  font-weight: bold;
 }
 .blogList .author {
   font-size: 14px;

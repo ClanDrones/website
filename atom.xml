@@ -1,77 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href='https://clandrones.com/rss.xsl' type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>Clan Drones</title>
-  <subtitle>This is Clan Drones site, come take a look</subtitle>
+  <subtitle>Somos un grupo de entuciastas de los drones con la finalidad de compartir conocimientos y experiencias.</subtitle>
   <link href="https://clandrones.com/atom.xml" rel="self"/>
   <link href="https://clandrones.com"/>
-  <updated>Mon Aug 12 2024 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
+  <updated>Tue Jan 28 2025 00:00:00 GMT+0000 (Coordinated Universal Time)</updated>
   <id>https://clandrones.com</id>
   <author>
     <name>Zero</name>
     <uri>https://floresbenavides.com buy me a coffe</uri>
   </author>
   <entry>
-    <title>Oscar Camacho</title>
-    <link href="https://clandrones.com/posts/oscar-camacho"/>
-    <id>https://clandrones.com/posts/oscar-camacho</id>
-    <published>2024-08-12T00:00:00.000Z</published>
-    <updated>2024-08-12T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/oscar-camacho.jpeg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Oscar Camacho&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Oscar Camacho&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Puebla México&lt;/p&gt;
+    <title>Roberto Alonso Niebla Navarrete</title>
+    <link href="https://clandrones.com/posts/roberto-niebla"/>
+    <id>https://clandrones.com/posts/roberto-niebla</id>
+    <published>2025-01-28T00:00:00.000Z</published>
+    <updated>2025-01-28T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/roberto-niebla.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Roberto Alonso Niebla Navarrete&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Roberto Alonso Niebla Navarrete&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Culiacán Sinaloa, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Air 3S . Dji Avata 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>Miriam Mejía Zamora</title>
+    <link href="https://clandrones.com/posts/miriam-mejia"/>
+    <id>https://clandrones.com/posts/miriam-mejia</id>
+    <published>2024-10-03T00:00:00.000Z</published>
+    <updated>2024-10-03T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/miriam-mejia.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Miriam Mejía Zamora&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Miriam Turmalina &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Playa del Carmen, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Air 2S &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>Osvaldo Angeles Gómez</title>
+    <link href="https://clandrones.com/posts/osvaldo-angeles"/>
+    <id>https://clandrones.com/posts/osvaldo-angeles</id>
+    <published>2024-10-03T00:00:00.000Z</published>
+    <updated>2024-10-03T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/fancisco-castaneda.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Osvaldo Angeles Gómez&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Osvaldo Angeles Gómez &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Tlaxcala, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Air 3 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>Juan Carlos del Carmen Alejo</title>
+    <link href="https://clandrones.com/posts/juan-carlos"/>
+    <id>https://clandrones.com/posts/juan-carlos</id>
+    <published>2024-10-02T00:00:00.000Z</published>
+    <updated>2024-10-02T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/juan-carlos.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Juan Carlos del Carmen Alejo&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Juan Carlos del Carmen Alejo &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Acapulco Guerrero&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 2 SE &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>Karina Gómez Medellín</title>
+    <link href="https://clandrones.com/posts/karina-gomez"/>
+    <id>https://clandrones.com/posts/karina-gomez</id>
+    <published>2024-10-02T00:00:00.000Z</published>
+    <updated>2024-10-02T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/karina-gomez.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Karina Gómez Medellín&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Karina Gómez Medellín &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Playa del Carmen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 3 Pro &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>NUESTRAS REDES OFICIALES CLAN DRONES</title>
+    <link href="https://clandrones.com/posts/redes-clan"/>
+    <id>https://clandrones.com/posts/redes-clan</id>
+    <published>2024-10-02T00:00:00.000Z</published>
+    <updated>2024-10-02T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/redes-clan.png"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Instagram Oficial:&lt;/h1&gt;
+&lt;p&gt;Enlace para seguir la cuenta de Instagram.&lt;br&gt;&lt;a target=&quot;_blank&quot; href=&quot;https://goo.su/k64VO&quot;&gt;https://goo.su/k64VO&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Grupo de Facebook Oficial:&lt;/h1&gt;
+&lt;p&gt;Enlace para unirte al grupo de Facebook Oficial.
+&lt;a target=&quot;_blank&quot; href=&quot;https://goo.su/IOgi4VL&quot;&gt;https://goo.su/IOgi4VL&lt;/a&gt;     &lt;/p&gt;
+&lt;h1&gt;Página de Facebook Oficial:&lt;/h1&gt;
+&lt;p&gt;Enlace para Seguir o dar Like a la Página de Facebook Oficial.
+&lt;a target=&quot;_blank&quot; href=&quot;https://goo.su/z6S77W&quot;&gt;https://goo.su/z6S77W&lt;/a&gt;  &lt;/p&gt;
+&lt;h1&gt;Gracias por ser parte de esta comunidad internacional:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/content/images/redes-clan.png&quot; alt=&quot;header&quot;&gt;&lt;/p&gt;
+</content>
+    <summary>Sigue solo nuestras redes oficiales.</summary>
+  </entry>
+  <entry>
+    <title>Aldo Ernesto</title>
+    <link href="https://clandrones.com/posts/aldo-ernesto"/>
+    <id>https://clandrones.com/posts/aldo-ernesto</id>
+    <published>2024-09-30T00:00:00.000Z</published>
+    <updated>2024-09-30T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/aldo-ernesto.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Aldo Ernesto&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Aldo Ernesto &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Playa del Carmen, Quintana Roo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Air 3 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
+</content>
+    <summary>Miembro de Clan Drones</summary>
+  </entry>
+  <entry>
+    <title>Jaime Citalan De León</title>
+    <link href="https://clandrones.com/posts/jaime-citalan"/>
+    <id>https://clandrones.com/posts/jaime-citalan</id>
+    <published>2024-09-30T00:00:00.000Z</published>
+    <updated>2024-09-30T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/jaime-citalan.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Jaime Citalan De León&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Jaime Citalan De León &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Acacoyagua, Chiapas México&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 3 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/papito_the_beard&quot;&gt;Papito the beard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
-    <summary>Admin de Clan Drones</summary>
+    <summary>Miembro de Clan Drones</summary>
   </entry>
   <entry>
-    <title>Roberto Villalobos</title>
-    <link href="https://clandrones.com/posts/roberto-villalobos"/>
-    <id>https://clandrones.com/posts/roberto-villalobos</id>
-    <published>2024-08-12T00:00:00.000Z</published>
-    <updated>2024-08-12T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/roberto-villalobos.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Roberto Villalobos&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Señor Matanza&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Quintana Roo, México&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Mini 2 SE&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;El Clan Drones&lt;/a&gt;&lt;/p&gt;
+    <title>Abegnamar Toledo Bueno</title>
+    <link href="https://clandrones.com/posts/abegnamar-toledo"/>
+    <id>https://clandrones.com/posts/abegnamar-toledo</id>
+    <published>2024-09-29T00:00:00.000Z</published>
+    <updated>2024-09-29T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/abegnamar-toledo.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Abegnamar Toledo Bueno&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Abegnamar Toledo Bueno &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Minatitlan, Veracruz, México&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini SE 2 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
-    <summary>Admin del grupo</summary>
+    <summary>Miembro de Clan Drones</summary>
   </entry>
   <entry>
-    <title>Corysback</title>
-    <link href="https://clandrones.com/posts/corysback"/>
-    <id>https://clandrones.com/posts/corysback</id>
-    <published>2024-08-04T00:00:00.000Z</published>
-    <updated>2024-08-04T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/corysback.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Corysback&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Corysback&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Quintana Roo, México&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Mini 4 Pro&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/mrcorysback&quot;&gt;mrCorysback&lt;/a&gt;&lt;/p&gt;
+    <title>Carlos Alberto Cabrera Pérez</title>
+    <link href="https://clandrones.com/posts/carlos-alberto"/>
+    <id>https://clandrones.com/posts/carlos-alberto</id>
+    <published>2024-09-29T00:00:00.000Z</published>
+    <updated>2024-09-29T00:00:00.000Z</updated>
+    <media:thumbnail url="https://clandrones.com//content/images/carlos-alberto.jpg"></media:thumbnail>
+    <content type="html">&lt;h1&gt;Carlos Alberto Cabrera Pérez&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Carlos Alberto Cabrera Pérez &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Zacualtipan de Ángeles Hidalgo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Dji Mini 4 Pro &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/elclandrones&quot;&gt;Clan Drones&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
 </content>
-    <summary>El Fundador de Clan Drones</summary>
-  </entry>
-  <entry>
-    <title>Zero</title>
-    <link href="https://clandrones.com/posts/zero"/>
-    <id>https://clandrones.com/posts/zero</id>
-    <published>2024-08-04T00:00:00.000Z</published>
-    <updated>2024-08-04T00:00:00.000Z</updated>
-    <media:thumbnail url="https://clandrones.com//content/images/zero.jpg"></media:thumbnail>
-    <content type="html">&lt;h1&gt;Zero&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Nombre:&lt;/strong&gt; Zero&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Localidad:&lt;/strong&gt; Querétaro, México&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Drone:&lt;/strong&gt; Mini 3&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Instagram:&lt;/strong&gt; &lt;a target=&quot;_blank&quot; href=&quot;https://instagram.com/xzerodragonx&quot;&gt;xZeroDragonx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Miembro desde:&lt;/strong&gt; 2024&lt;/p&gt;
-</content>
-    <summary>Carlos Flores o &quot;Zero&quot; desde Querétaro</summary>
+    <summary>Miembro de Clan Drones</summary>
   </entry>
 </feed>
