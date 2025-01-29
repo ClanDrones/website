@@ -1,5 +1,5 @@
 meta:
-  title: Roberto Alonso Niebla Navarrete
+  title: Roberto Alonso Niebla Navarrete.
   date: 20250128
   author: Admin
   image: /content/images/roberto-niebla.jpg
@@ -10,7 +10,7 @@ meta:
 # Roberto Alonso Niebla Navarrete
 **Nombre:** Roberto Alonso Niebla Navarrete
 
-**Localidad:** Culiacán Sinaloa, México
+**Localidad:** Culiacan Sinaloa, México
 
 **Drone:** Dji Air 3S . Dji Avata 2
 
