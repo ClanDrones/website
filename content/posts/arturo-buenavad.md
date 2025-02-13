@@ -1,8 +1,8 @@
 meta:
-  title: Arturo Buenavad Méndez
-  date: 20240816
+  title: Jair Alfredo Cuevas Cota
+  date: 20250213
   author: Admin
-  image: /content/images/arturo-buenavad.jpg
+  image: /content/images/jair-alfredo.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
@@ -10,10 +10,10 @@ meta:
 # Arturo Buenavad Méndez
 **Nombre:** Arturo Buenavad Méndez
 
-**Localidad:** Veracrúz, México
+**Localidad:** Culiacán Sinaloa, México
 
-**Drone:** Dji Categoría Mini  
+**Drone:** Dji Avata 2, Dji Air 3S, Dji Neo, Dji Mini 4 Pro, Dji Fpv  
 
 **Instagram:** [Clan Drones](https://instagram.com/elclandrones)
 
-**Miembro desde:** 2024
+**Miembro desde:** 2025
