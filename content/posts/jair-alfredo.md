@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Arturo Buenavad Méndez
-**Nombre:** Arturo Buenavad Méndez
+# Jair Alfredo Cuevas Cota
+**Nombre:** Jair Alfredo Cuevas Cota
 
 **Localidad:** Culiacán Sinaloa, México
 
