@@ -1,8 +1,8 @@
 meta:
   title: Corysback
-  date: 20240804
+  date: 20250508
   author: Admin
-  image: /content/images/fundador-cory.jpg
+  image: /content/images/cory-ivan.jpg
   excerpt: Fundador de Clan Drones
   tags:
     - miembro
@@ -13,8 +13,8 @@ meta:
 
 **Localidad:** Quintana Roo, México
 
-**Drone:** Mini 4 Pro
+**Drone:** Dji Avata 2, Dji Mini 4 Pro
 
 **Instagram:** [mrCorysback](https://instagram.com/mrcorysback)
 
-**Miembro desde:** 2024
+**Miembro desde:** 2024, Clan Drones ya lleva 1 año. 
