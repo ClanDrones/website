@@ -2,7 +2,7 @@ meta:
   title: Ma. de Jesús Nájera Santiago
   date: 20250508
   author: Admin
-  image: /content/images/ma-najera.jpg
+  image: /content/images/Ma-Najera.jpg
   excerpt: Miembro de Clan Drones
   tags:
     - miembro
