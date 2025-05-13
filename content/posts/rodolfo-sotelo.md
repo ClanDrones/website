@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Mario Rodolfo Sotelo Pérez
+# Rodolfo Sotelo Pérez
 **Nombre:** Rodolfo Sotelo Pérez
 
 **Localidad:** Coatzacoalcos Veracruz
