@@ -10,7 +10,7 @@ eta:
 # Erick Guerrero Martínez
 **Nombre:** Erick Guerrero Martínez
 
-**Localidad:** Atizapán de Zaragoza, Estado de México
+**Localidad:** Atizapán de Zaragoza, Estado de México.
 
 **Drone:** Dron: Dji Air 3s, Estabilizados y FPV 
 
