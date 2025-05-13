@@ -1,4 +1,4 @@
-eta:
+meta:
   title: Erick Guerrero Martínez
   date: 20250501
   author: Admin
