@@ -10,7 +10,7 @@ meta:
 # Erick Guerrero Martínez
 **Nombre:** Erick Guerrero Martínez
 
-**Localidad:** Atizapán de Zaragoza, Estado de México
+**Localidad:** Tulancingo, Hidalgo
 
 **Drone:** Dron: Dji Air 3s, Estabilizados y FPV 
 
