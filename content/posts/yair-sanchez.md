@@ -1,5 +1,5 @@
 meta:
-  title: Gilberto Yair Sanchez Rosendo
+  title: Gilberto Yair Sanchez Rosendo.
   date: 20250501
   author: Admin
   image: /content/images/yair-sanchez.jpg
@@ -7,10 +7,10 @@ meta:
   tags:
     - miembro
 
-# Gilberto Yair Sanchez Rosendo
-**Nombre:** Gilberto Yair Sanchez Rosendo
+# Gilberto Yair Sanchez Rosendo.
+**Nombre:** Gilberto Yair Sanchez Rosendo.
 
-**Localidad:** Guadalajara Jalisco
+**Localidad:** Guadalajara Jalisco.
 
 **Drone:** Dron: Dji Avata2 , Dji Mini 4 Pro, Dji Neo 
 
