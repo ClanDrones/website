@@ -14,6 +14,6 @@ meta:
 
 **Drone:** Dron: Dji Neo, Dji Mini 3, Dji Avata 2
 
-**Tiktok:** [Clan Drones](https://www.tiktok.com/@dronepanchoalarcon)
+**Tiktok:** (https://www.tiktok.com/@dronepanchoalarcon)
 
 **Miembro desde:** 2025
