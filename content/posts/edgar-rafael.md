@@ -1,5 +1,5 @@
 meta:
-  title: Edgar Rafael Murillo Rodríguez
+  title: Edgar R.
   date: 20240929
   author: Admin
   image: /content/images/edgar-rafael.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Edgar Rafael Murillo Rodríguez
-**Nombre:** Edgar Rafael Murillo Rodríguez
+# Edgar R.
+**Nombre:** Edgar R.
 
 **Localidad:** Colombia
 
