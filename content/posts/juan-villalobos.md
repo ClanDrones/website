@@ -1,5 +1,5 @@
 meta:
-  title: Juan Villalobos
+  title: Juan V.
   date: 20240904
   author: Admin
   image: /content/images/juan-villalobos.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Juan Villalobos
-**Nombre:** Juan Villalobos
+# Juan V.
+**Nombre:** Juan V.
 
 **Localidad:** Aguascalientes, México
 
