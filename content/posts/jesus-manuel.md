@@ -1,5 +1,5 @@
 meta:
-  title: Jesús Manuel Del Campo Salvá
+  title: Jesús M.
   date: 20250501
   author: Admin
   image: /content/images/jesus-manuel.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Jesús Manuel Del Campo Salvá
-**Nombre:** Jesús Manuel Del Campo Salvá
+# Jesús M.
+**Nombre:** Jesús M.
 
 **Localidad:** Cancún Quintana Roo
 
