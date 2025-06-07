@@ -1,5 +1,5 @@
 meta:
-  title: David Dávila Herrera 
+  title: David D. 
   date: 20240929
   author: Admin
   image: /content/images/david-avila.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# David Dávila Herrera 
-**Nombre:** David Dávila Herrera 
+# David D.
+**Nombre:** David D.
 
 **Localidad:** CDMX
 
