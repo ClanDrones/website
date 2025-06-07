@@ -1,5 +1,5 @@
 meta:
-  title: Alejandro Bravo Mendoza
+  title: Alejandro B.
   date: 20250530
   author: Admin
   image: /content/images/alejandro-bravo.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Alejandro Bravo Mendoza
-**Nombre:** Alejandro Bravo Mendoza
+# Alejandro B.
+**Nombre:** Alejandro B.
 
 **Localidad:** Tizimín Yucatán
 
