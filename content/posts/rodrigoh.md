@@ -1,5 +1,5 @@
 meta:
-  title: Rodrigo Hernández Vázquez
+  title: Rodrigo H.
   date: 20250501
   author: Admin
   image: /content/images/rodrigo-hernandez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Rodrigo Hernández Vázquez
-**Nombre:** Rodrigo Hernández Vázquez
+# Rodrigo H.
+**Nombre:** Rodrigo H.
 
 **Localidad:** Tehuacán Puebla
 
