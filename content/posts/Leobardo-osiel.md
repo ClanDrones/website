@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Leobardo Osiel López
+# Leobardo O.
 **Nombre:** Leobardo O.
 
 **Localidad:** Guadalajara Jalisco, México
