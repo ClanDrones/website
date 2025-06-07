@@ -1,5 +1,5 @@
 meta:
-  title: Marco Antonio Limón Burgos
+  title: Marco A.
   date: 20240816
   author: Admin
   image: /content/images/limon-marco.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Marco Antonio Limón Burgos
-**Nombre:** Marco Antonio Limón Burgos
+# Marco A.
+**Nombre:** Marco A.
 
 **Localidad:** Puebla, México
 
