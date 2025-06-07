@@ -1,5 +1,5 @@
 meta:
-  title: Darío A. Rodríguez
+  title: Darío A.
   date: 20240824
   author: Admin
   image: /content/images/dario-rodriguez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Darío A. Rodríguez
-**Nombre:** Darío A. Rodríguez
+# Darío A.
+**Nombre:** Darío A.
 
 **Localidad:** Argentina
 
