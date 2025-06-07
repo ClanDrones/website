@@ -2,7 +2,8 @@
 
 # Clan Drones - Comunidad de Droneros a nivel Internacional   
 
-![](/content/images/comuinicado.jpg)
+![](/content/images/comuinicado.jpg)   
+
 ![](/content/images/elheader25.jpg)
 
 ## Ganador de la Tercer Dinámica | Clan Drones  
