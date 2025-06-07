@@ -1,5 +1,5 @@
 meta:
-  title: Carlos Alberto Cabrera Pérez
+  title: Carlos A.
   date: 20240929
   author: Admin
   image: /content/images/carlos-alberto.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Carlos Alberto Cabrera Pérez 
-**Nombre:** Carlos Alberto Cabrera Pérez 
+# Carlos A.
+**Nombre:** Carlos A.
 
 **Localidad:** Zacualtipan de Ángeles Hidalgo
 
