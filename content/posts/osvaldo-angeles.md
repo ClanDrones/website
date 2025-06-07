@@ -1,5 +1,5 @@
 meta:
-  title: Osvaldo Angeles Gómez 
+  title: Osvaldo A. 
   date: 20241003
   author: Admin
   image: /content/images/fancisco-castaneda.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Osvaldo Angeles Gómez 
-**Nombre:** Osvaldo Angeles Gómez 
+# Osvaldo A.
+**Nombre:** Osvaldo A.
 
 **Localidad:** Tlaxcala, México
 
