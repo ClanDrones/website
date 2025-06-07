@@ -1,5 +1,5 @@
 meta:
-  title: Oscar Camacho
+  title: Oscar C.
   date: 20240812
   author: Admin
   image: /content/images/oscar-camacho.jpg
@@ -8,8 +8,8 @@ meta:
     - miembro
     - admin
 
-# Oscar Camacho
-**Nombre:** Oscar Camacho
+# Oscar C.
+**Nombre:** Oscar C.
 
 **Localidad:** Puebla México
 
