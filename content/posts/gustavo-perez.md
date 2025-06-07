@@ -1,5 +1,5 @@
 meta:
-  title: Gustavo A. Pérez Oliva
+  title: Gustavo A.
   date: 20250501
   author: Admin
   image: /content/images/gustavo-perez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Gustavo A. Pérez Oliva
-**Nombre:** Gustavo A. Pérez Oliva
+# Gustavo A.
+**Nombre:** Gustavo A.
 
 **Localidad:** Cancún Quintana Roo
 
