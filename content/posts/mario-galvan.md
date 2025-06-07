@@ -1,5 +1,5 @@
 meta:
-  title: Mario Eduardo Ayala Galván
+  title: Mario E.
   date: 20250501
   author: Admin
   image: /content/images/mario-galvan.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Mario Eduardo Ayala Galván
-**Nombre:** Mario Eduardo Ayala Galván
+# Mario E.
+**Nombre:** Mario E.
 
 **Localidad:** Zamora Michoacán
 
