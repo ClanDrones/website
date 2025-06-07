@@ -1,5 +1,5 @@
 meta:
-  title: Juan LEón
+  title: Juan L.
   date: 20240815
   author: Miembro
   image: /content/images/juan-leon.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Juan León
-**Nombre:** Juan León
+# Juan L.
+**Nombre:** Juan L.
 
 **Localidad:** México
 
