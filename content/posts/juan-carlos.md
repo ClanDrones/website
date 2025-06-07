@@ -1,5 +1,5 @@
 meta:
-  title: Juan Carlos del Carmen Alejo 
+  title: Juan C.
  
   date: 20241002
   author: Admin
@@ -8,8 +8,8 @@ meta:
   tags:
     - miembro
 
-# Juan Carlos del Carmen Alejo 
-**Nombre:** Juan Carlos del Carmen Alejo 
+# Juan C. 
+**Nombre:** Juan C.
 
 **Localidad:** Acapulco Guerrero
 
