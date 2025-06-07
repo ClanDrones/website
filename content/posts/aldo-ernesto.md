@@ -1,5 +1,5 @@
 meta:
-  title: Aldo Ernesto 
+  title: Aldo E. 
   date: 20240930
   author: Admin
   image: /content/images/aldo-ernesto.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Aldo Ernesto 
-**Nombre:** Aldo Ernesto 
+# Aldo E. 
+**Nombre:** Aldo E. 
 
 **Localidad:** Playa del Carmen, Quintana Roo
 
