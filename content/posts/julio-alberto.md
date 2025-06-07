@@ -1,5 +1,5 @@
 meta:
-  title: Julio Alberto Tec Uc
+  title: Julio A.
   date: 20240824
   author: Admin
   image: /content/images/julio-alberto.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Julio Alberto Tec Uc
-**Nombre:** Julio Alberto Tec Uc
+# Julio A.
+**Nombre:** Julio A.
 
 **Localidad:** Cancún, México
 
