@@ -1,5 +1,5 @@
 meta:
-  title: Abner Nehemias Aguilar Tziu
+  title: Abner N.
   date: 20240904
   author: Admin
   image: /content/images/abner-aguilar.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Abner Nehemias Aguilar Tziu
-**Nombre:** Abner Nehemias Aguilar Tziu
+# Abner N.
+**Nombre:** Abner N.
 
 **Localidad:** Yucatán, México
 
