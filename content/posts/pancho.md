@@ -1,5 +1,5 @@
 meta:
-  title: Francisco Pancho Alarcón
+  title: Francisco P.
   date: 20250530
   author: Admin
   image: /content/images/francisco-pancho.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Francisco Pancho Alarcón
-**Nombre:** Francisco Pancho Alarcón
+# Francisco P.
+**Nombre:** Francisco P.
 
 **Localidad:** Culiacan Sinaloa, México
 
