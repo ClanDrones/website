@@ -1,5 +1,5 @@
 meta:
-  title: Jair Alfredo Cuevas Cota
+  title: Jair A.
   date: 20250213
   author: Admin
   image: /content/images/jair-alfredo.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Jair Alfredo Cuevas Cota
-**Nombre:** Jair Alfredo Cuevas Cota
+# Jair A.
+**Nombre:** Jair A.
 
 **Localidad:** Culiacán Sinaloa, México
 
