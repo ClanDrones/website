@@ -1,5 +1,5 @@
 meta:
-  title: Miriam Mejía Zamora 
+  title: Miriam M.
   date: 20241003
   author: Admin
   image: /content/images/miriam-mejia.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Miriam Mejía Zamora  
-**Nombre:** Miriam Turmalina 
+# Miriam M.
+**Nombre:** Miriam T.
 
 **Localidad:** Playa del Carmen, México
 
