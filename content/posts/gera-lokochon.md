@@ -1,5 +1,5 @@
 meta:
-  title: Luis Gerardo Carrillo Salcedo
+  title: Luis G.
   date: 20240824
   author: Admin
   image: /content/images/gerardo-locochon.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Luis Gerardo Carrillo Salcedo
-**Nombre:** Gera Lokoshon
+# Luis G.
+**Nombre:** Gera 
 
 **Localidad:** Cancún, México
 
