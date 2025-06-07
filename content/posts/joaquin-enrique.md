@@ -1,5 +1,5 @@
 meta:
-  title: Joaquín Enrique Pérez González
+  title: Joaquín E.
   date: 20240905
   author: Admin
   image: /content/images/joaquin-enrique.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Joaquín Enrique Pérez González
-**Nombre:** Joaquín Enrique Pérez González
+# Joaquín E.
+**Nombre:** Joaquín E.
 
 **Localidad:** Mérida Yucatán, México
 
