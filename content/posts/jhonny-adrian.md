@@ -7,7 +7,7 @@ meta:
   tags:
     - miembro
 
-# Abner Jhonny A.
+# Jhonny A.
 **Nombre:** Jhonny A.
 
 **Localidad:** Quintana Roo, México
