@@ -1,5 +1,5 @@
 meta:
-  title: Jaime Citalan De León 
+  title: Jaime C. 
   date: 20240930
   author: Admin
   image: /content/images/jaime-citalan.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Jaime Citalan De León 
-**Nombre:** Jaime Citalan De León 
+# Jaime C.
+**Nombre:** Jaime C.
 
 **Localidad:** Acacoyagua, Chiapas México
 
