@@ -1,5 +1,5 @@
 meta:
-  title: Gilberto Yair Sanchez Rosendo.
+  title: Gilberto Y.
   date: 20250501
   author: Admin
   image: /content/images/yair-sanchez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Gilberto Yair Sanchez Rosendo.
-**Nombre:** Gilberto Yair Sanchez Rosendo.
+# Gilberto Y.
+**Nombre:** Gilberto Y.
 
 **Localidad:** Guadalajara Jalisco.
 
