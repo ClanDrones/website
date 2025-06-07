@@ -1,5 +1,5 @@
 meta:
-  title: Adán Velasco
+  title: Adán V.
   date: 20240904
   author: Admin
   image: /content/images/adan-velasco.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Adán Velasco
-**Nombre:** Adán Velasco
+# Adán V.
+**Nombre:** Adán V.
 
 **Localidad:** México
 
