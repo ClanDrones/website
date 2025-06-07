@@ -15,6 +15,6 @@ meta:
 
 **Drone:** Dji Avata 2, Dji Mini 4 Pro
 
-**Instagram:** [mrCorysback](https://instagram.com/mrcorysback)
+**Instagram:** [Corysback](https://instagram.com/)
 
 **Miembro desde:** 2024, Clan Drones ya lleva 1 año. 
