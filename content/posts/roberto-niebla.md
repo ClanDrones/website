@@ -1,5 +1,5 @@
 meta:
-  title: Roberto Alonso Niebla Navarrete.
+  title: Roberto A.
   date: 20250128
   author: Admin
   image: /content/images/roberto-niebla.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Roberto Alonso Niebla Navarrete
-**Nombre:** Roberto Alonso Niebla Navarrete
+# Roberto A.
+**Nombre:** Roberto A.
 
 **Localidad:** Culiacan Sinaloa, México
 
