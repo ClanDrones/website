@@ -1,5 +1,5 @@
 meta:
-  title: Aarón Antonio González Avila
+  title: Aarón A.
   date: 20250501
   author: Admin
   image: /content/images/aaron-avila.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Aarón Antonio González Avila
-**Nombre:** Aarón Antonio González Avila
+# Aarón A.
+**Nombre:** Aarón A.
 
 **Localidad:** Atizapán de Zaragoza, Estado de México
 
