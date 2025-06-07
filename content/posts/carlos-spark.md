@@ -1,5 +1,5 @@
 meta:
-  title: Carlos Rey Garcia Benavides
+  title: Carlos R.
   date: 20240904
   author: Admin
   image: /content/images/carlos-spark.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Carlos Rey Garcia Benavides
-**Nombre:** Carlos Rey Garcia Benavides
+# Carlos R.
+**Nombre:** Carlos R.
 
 **Localidad:** Cancún Quintana Roo, México
 
