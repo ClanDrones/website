@@ -1,5 +1,5 @@
 meta:
-  title: Daniel Hernández Jaimes
+  title: Daniel H.
   date: 20240904
   author: Admin
   image: /content/images/daniel-hernandez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Daniel Hernández Jaimes
-**Nombre:** Daniel Hernández Jaimes
+# Daniel H.
+**Nombre:** Daniel H.
 
 **Localidad:** CDMX
 
