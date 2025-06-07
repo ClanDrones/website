@@ -1,5 +1,5 @@
 meta:
-  title: Karina Gómez Medellín 
+  title: Karina G.
   date: 20241002
   author: Admin
   image: /content/images/karina-gomez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Karina Gómez Medellín 
-**Nombre:** Karina Gómez Medellín 
+# Karina G.
+**Nombre:** Karina G.
 
 **Localidad:** Playa del Carmen
 
