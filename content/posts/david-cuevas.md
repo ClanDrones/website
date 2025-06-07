@@ -1,5 +1,5 @@
 meta:
-  title: David Cuevas
+  title: David C.
   date: 20240904
   author: Admin
   image: /content/images/david-cuevas.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# David Cuevas
-**Nombre:** David Cuevas
+# David C.
+**Nombre:** David C.
 
 **Localidad:** Cancún Quintana Roo, México
 
