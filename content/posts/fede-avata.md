@@ -1,5 +1,5 @@
 meta:
-  title: José O Ávila
+  title: José O.
   date: 20240824
   author: Admin
   image: /content/images/fede-avata.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# José O. Ávila
-**Nombre:** José O Ávila 
+# José O.
+**Nombre:** José O.
 
 **Localidad:** Queretaro 
 
