@@ -1,5 +1,5 @@
 meta:
-  title: Hugo Roberto
+  title: Hugo R.
   date: 20240812
   author: Admin
   image: /content/images/hugo-roberto.jpg
@@ -8,8 +8,8 @@ meta:
     - miembro
     - admin
 
-# Hugo Roberto
-**Nombre:** Hugo Roberto
+# Hugo R.
+**Nombre:** Hugo R.
 
 **Localidad:** Mérida Yucatán, México
 
