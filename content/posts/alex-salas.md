@@ -1,5 +1,5 @@
 meta:
-  title: Alex Salas
+  title: Alex S.
   date: 20240815
   author: Admin
   image: /content/images/alex-salas.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Alex Salas
-**Nombre:** Alex Salas
+# Alex S.
+**Nombre:** Alex S.
 
 **Localidad:** Aguascalientes, México
 
