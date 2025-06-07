@@ -1,5 +1,5 @@
 meta:
-  title: José Luis Torres Flores
+  title: José L.
   date: 20250530
   author: Admin
   image: /content/images/jose-luis.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# José Luis Torres Flores
-**Nombre:** José Luis Torres Flores
+# José L.
+**Nombre:** José L.
 
 **Localidad:** CDMX
 
