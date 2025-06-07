@@ -1,5 +1,5 @@
 meta:
-  title: Leobardo Osiel López
+  title: Leobardo O.
   date: 20240904
   author: Admin
   image: /content/images/leobardo-osiel.jpg
@@ -8,7 +8,7 @@ meta:
     - miembro
 
 # Leobardo Osiel López
-**Nombre:** Leobardo Osiel López
+**Nombre:** Leobardo O.
 
 **Localidad:** Guadalajara Jalisco, México
 
