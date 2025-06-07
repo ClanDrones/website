@@ -1,5 +1,5 @@
 meta:
-  title: Felipe Cortés Flores
+  title: Felipe C.
   date: 20250501
   author: Admin
   image: /content/images/felipe-flores.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Felipe Cortés Flores
-**Nombre:** Felipe Cortés Flores
+# Felipe C.
+**Nombre:** Felipe C.
 
 **Localidad:** Agua Dulce Veracruz
 
