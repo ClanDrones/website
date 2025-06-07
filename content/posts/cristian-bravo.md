@@ -1,5 +1,5 @@
 meta:
-  title: Cristian Bravo
+  title: Cristian B.
   date: 20240815
   author: Admin
   image: /content/images/cristian-bravo.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Cristian Bravo
-**Nombre:** Cristian Bravo
+# Cristian B.
+**Nombre:** Cristian B.
 
 **Localidad:** Guadalajara, México
 
