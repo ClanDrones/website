@@ -1,5 +1,5 @@
 meta:
-  title: Roberto Villalobos
+  title: Roberto V.
   date: 20240812
   author: Admin
   image: /content/images/roberto-villalobos.jpg
@@ -8,8 +8,8 @@ meta:
     - miembro
     - admin
 
-# Roberto Villalobos
-**Nombre:** Señor Matanza
+# Roberto V.
+**Nombre:** Rob. V.
 
 **Localidad:** Quintana Roo, México
 
