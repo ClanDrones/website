@@ -1,5 +1,5 @@
 meta:
-  title: Erick Guerrero Martínez
+  title: Erick G.
   date: 20250501
   author: Admin
   image: /content/images/erick-guerrero.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Erick Guerrero Martínez
-**Nombre:** Erick Guerrero Martínez
+# Erick G.
+**Nombre:** Erick G.
 
 **Localidad:** Tulancingo, Hidalgo
 
