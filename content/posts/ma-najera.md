@@ -1,5 +1,5 @@
 meta:
-  title: Ma. de Jesús Nájera Santiago
+  title: Ma. de J.
   date: 20250508
   author: Admin
   image: /content/images/Ma-Najera.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Ma. de Jesús Nájera Santiago
-**Nombre:** Ma. de Jesús Nájera Santiago
+# Ma. de J.
+**Nombre:** Ma. de J.
 
 **Localidad:** Atoyac Guerrero
 
