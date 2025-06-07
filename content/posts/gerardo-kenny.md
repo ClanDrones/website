@@ -1,5 +1,5 @@
 meta:
-  title: Gerardo Kenny Inzunza Leyva  
+  title: Gerardo K. 
   date: 20250508
   author: Admin
   image: /content/images/gerardo-kenny.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Gerardo Kenny Inzunza Leyva 
-**Nombre:** Gerardo Kenny Inzunza Leyva 
+# Gerardo K.
+**Nombre:** Gerardo K.
 
 **Localidad:** Culiacán Sinaloa
 
