@@ -1,5 +1,5 @@
 meta:
-  title: Rodolfo Sotelo Pérez
+  title: Rodolfo S.
   date: 20250501
   author: Admin
   image: /content/images/rodolfo-sotelo.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Rodolfo Sotelo Pérez
-**Nombre:** Rodolfo Sotelo Pérez
+# Rodolfo S.
+**Nombre:** Rodolfo S.
 
 **Localidad:** Coatzacoalcos Veracruz
 
