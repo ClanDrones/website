@@ -1,5 +1,5 @@
 meta:
-  title: Jhonatan esparza Gardea
+  title: Jhonatan E.
   date: 20240904
   author: Admin
   image: /content/images/jhonatan-esparza.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Jhonatan esparza Gardea
-**Nombre:** Jhonatan esparza Gardea
+# Jhonatan E.
+**Nombre:** Jhonatan E.
 
 **Localidad:** México
 
