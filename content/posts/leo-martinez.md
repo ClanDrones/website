@@ -1,5 +1,5 @@
 meta:
-  title: Leobardo Martínez
+  title: Leobardo M.
   date: 20240824
   author: Admin
   image: /content/images/leo-martinez.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Leobardo Martínez 
-**Nombre:** Leo WebMaster
+# Leobardo M. 
+**Nombre:** Leo W.
 
 **Localidad:** Cancún, México
 
