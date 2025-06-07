@@ -1,5 +1,5 @@
 meta:
-  title: Eduardo Ulloa De Loza
+  title: Eduardo U.
   date: 20240929
   author: Admin
   image: /content/images/eduardo-ulloa.jpg
@@ -7,8 +7,8 @@ meta:
   tags:
     - miembro
 
-# Eduardo Ulloa De Loza
-**Nombre:** Eduardo Ulloa De Loza
+# Eduardo U.
+**Nombre:** Eduardo U.
 
 **Localidad:** MéxicoGuadalajara Jalisco México
 
