@@ -1,2 +1,21 @@
 footer
   |© #{new Date().getFullYear()} Clan Drones, todos los derechos reservados.
+  #popupOverlay.popup-hidden
+    #popupContent
+      img(src="https://clandrones.com/content/images/cory-ivan.jpg")
+      button#closePopup Close
+  script.
+    document.addEventListener('DOMContentLoaded', function() {
+      const popupOverlay = document.getElementById('popupOverlay');
+      const closePopupButton = document.getElementById('closePopup');
+    
+      setTimeout(function() {
+        popupOverlay.classList.remove('popup-hidden');
+        popupOverlay.classList.add('popup-visible');
+      }, 2000); // Show after 2 seconds (2000 milliseconds)
+    
+      closePopupButton.addEventListener('click', function() {
+        popupOverlay.classList.remove('popup-visible');
+        popupOverlay.classList.add('popup-hidden');
+      });
+    });
