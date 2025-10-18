@@ -2,7 +2,7 @@
 
 # Clan Drones - Comunidad de Droneros a nivel Internacional   
 
-![](/content/images/comuinicado.jpg)   
+  
 
 ![](/content/images/elheader25.jpg)
 
