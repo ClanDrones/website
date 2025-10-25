@@ -32,4 +32,6 @@ Rechazamos cualquier forma de violencia y promovemos el uso responsable, ético 
 **Since Abril 2024:** Y los años que nos faltan...
 # Leer Contenido de la imagen
 
+![](/content/images/deslinde.jpg)
+
 Información Oficial
