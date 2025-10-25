@@ -2,16 +2,18 @@
 
 # Clan Drones - Comunidad de Droneros a nivel Internacional   
 
+# Ojo ! El Gafete debajo ya no tiene validez 
+
   
 
-![](/content/images/elheader25.jpg)
+![](/content/images/cancelada.jpg)
 
-## Ganador de la Tercer Dinámica | Clan Drones  
-## Lo que se buscó en esta ocasión fue un video que te diera la sensación de estar ahí, de decir básicamente wow. |   
-## Fue grabado en En CDMX todas las tomas con un drone FPV iFlight Nazgul Evoque.  
-## Piloto Erick Guerrero.  
-## Lo Pueden ver Aquí > https://n9.cl/vov5f. 
+## Importante para los que tienen este Gafete | Clan Drones ya no reconoce como válido ese diseño.  
+## Debido a temas de seguridad y temas del mismo índole, ese diseño ya no tiene validez. |   
+## El Nuevo Gafete Oficial de Clan Drones será proporcionado por mensaje privado en el grupo whatsapp.  
+## Solicítalo directo al fundador de Clan Drones.  
+## En Clan Drones nos importa su seguridad y la de los demás > (https://clandrones.com/content/images/deslinde.jpg). 
 
 Este es el sitio oficial de Clan Drones. Aquí puedes encontrar información acerca de nosotros, quienes somos (miembros oficiales) y donde puedes contactarnos.
 
-Si llegaste aqui desde un gafete, recuerda que solo los miembros oficiales aparecen listados en la sección de [miembros](/miembros)
+Recuerda que solo los miembros oficiales que aportan constantemente aparecen listados en la sección de [miembros](/miembros)
