@@ -7,7 +7,7 @@ siteUrl: https://clandrones.com
 cname: clandrones.com
 pages:  # this node is optional
   Miembros: /miembros
-  Importante: /Importante
+  Importante: /importante
   Entradas: /entradas
   Acerca-de-nosotros: /acerca-de-nosotros
   Mercancía: /mercancia
