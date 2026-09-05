@@ -1,19 +1,21 @@
 meta:
-  title: Julio A.
+  title: Baja por Conducta Inadecuada - Julio A.
   date: 20240824
   author: Admin
   image: /content/images/julio-alberto.jpg
-  excerpt: Miembro de Clan Drones
+  excerpt: Ex Miembro de Clan Drones
   tags:
     - miembro
 
-# Julio A.
-**Nombre:** Julio A.
+# Baja por Conducta Inadecuada - Julio A.
+**Nombre:** Baja por Conducta Inadecuada - Julio A.
+
+**Baja Definitiva por incurrir en ofensas hacia miembros del clan:** Baja por Conducta Inadecuada - Julio A.
 
 **Localidad:** Cancún, México
 
 **Drone:** Dji Mini 3 
 
-**Instagram:** [Clan Drones](https://instagram.com/elclandrones)
+**Leer Código de Conducta:** [Código de Conducta](https://clandrones.com/codigo-de-conducta/)
 
 **Miembro desde:** 2024
