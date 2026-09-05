@@ -2,7 +2,7 @@ meta:
   title: Baja Definitiva por incurrir en ofensas hacia miembros del clan - Hugo R.
   date: 20240812
   author: Admin
-  image: /content/images/hugo-roberto.jpg
+  image: /content/images/hugo.jpg
   excerpt: Persona Non grata  
   tags:
     - miembro
