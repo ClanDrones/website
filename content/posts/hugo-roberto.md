@@ -6,7 +6,7 @@ meta:
   excerpt: Persona Non grata  
   tags:
     - miembro
-    - admin
+    - Persona Non Grata
 
 # Baja Definitiva por incurrir en ofensas hacia miembros del clan, Incitar al odio y promover la doble moral - Hugo R. Persona Non Grata
 **Nombre:** Baja Definitiva por incurrir en ofensas hacia miembros del clan - Hugo R.
