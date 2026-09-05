@@ -6,15 +6,16 @@ meta:
   excerpt: Ex Miembro de Clan Drones
   tags:
     - miembro
+    - Persona Non Grata
 
-# Baja por Conducta Inadecuada - Julio A.
+# Baja Definitiva por incurrir en ofensas hacia miembros del clan, Incitar al odio y promover la doble moral - Julio A.- Persona Non Grata
 **Nombre:** Baja por Conducta Inadecuada - Julio A.
 
-**Baja Definitiva por incurrir en ofensas hacia miembros del clan:** Baja por Conducta Inadecuada - Julio A.
+**Baja Definitiva por incurrir en ofensas hacia miembros del clan, Incitar al odio y promover la doble moral:** Baja por Conducta Inadecuada - Julio A. 
 
 **Localidad:** Cancún, México
 
-**Drone:** Dji Mini 3 
+**Drone:** No Info 
 
 **Leer Código de Conducta:** [Código de Conducta](https://clandrones.com/codigo-de-conducta/)
 
