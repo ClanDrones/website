@@ -1,20 +1,22 @@
 meta:
-  title: Hugo R.
+  title: Baja Definitiva por incurrir en ofensas hacia miembros del clan - Hugo R.
   date: 20240812
   author: Admin
   image: /content/images/hugo-roberto.jpg
-  excerpt: Admin de Clan Drones
+  excerpt: Persona Non grata  
   tags:
     - miembro
     - admin
 
-# Hugo R.
-**Nombre:** Hugo R.
+# Baja Definitiva por incurrir en ofensas hacia miembros del clan, Incitar al odio y promover la doble moral - Hugo R. Persona Non Grata
+**Nombre:** Baja Definitiva por incurrir en ofensas hacia miembros del clan - Hugo R.
+
+**Baja Definitiva por incurrir en ofensas hacia miembros del clan, Incitar al odio y promover la doble moral**
 
 **Localidad:** Mérida Yucatán, México
 
-**Drone:** Experto en Drones FPV 
+**Drone:** Sin Descripción  
 
-**Instagram:** [ZonaSkateMx](https://instagram.com/zonaskatemx)
+**Código de Conducta:** [Código de Conducta](https://https://clandrones.com/codigo-de-conducta/)
 
 **Miembro desde:** 2024
