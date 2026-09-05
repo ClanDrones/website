@@ -8,10 +8,10 @@ meta:
   tags:
     - mercancia
 
-# Gorra Clan Drones, Negra o Blanca
-**Diseño:** Frente con Logotipo y en la parte posterior logo Dji
+# Gorra Clan Drones, Negra o Blanca incluyendo Gafete Actualizado
+**Diseño:** Frente con Logotipo y en la parte posterior logo Dji + Gafete Oficial Ambos lados
 
-**Envíos a toda la república:** 420 + 180 de envío
+**Envíos a toda la república:** 850 + envío (varía dependiendo el lugar)
 
 **Unitalla:** Ajustable con broche de velcro  
 
@@ -20,6 +20,6 @@ meta:
 **Sobre Pedido:** Mercancía Oficial Clan Drones
 # Leer Contenido de la imagen
 
-Gorras Oficiales
+Gorras  y Gafetes Oficiales
 
 ![header](/content/images/actualizadogorra.png)
