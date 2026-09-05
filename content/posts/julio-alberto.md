@@ -2,7 +2,7 @@ meta:
   title: Baja por Conducta Inadecuada - Julio A.
   date: 20240824
   author: Admin
-  image: /content/images/julio-alberto.jpg
+  image: /content/images/julioe.jpg
   excerpt: Ex Miembro de Clan Drones
   tags:
     - miembro
