@@ -5,7 +5,7 @@ meta:
   image: /content/images/yahir.jpg
   excerpt: Ex Miembro Activo de Clan Drones
   tags:
-    - EXPULSADO 
+    - miembro 
 
 # EXPULSADO POR VUELO IMPRUDENCIAL.
 **Nombre:** EXPULSADO.
