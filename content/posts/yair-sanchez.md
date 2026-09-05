@@ -2,7 +2,7 @@ meta:
   title: EXPULSADO POR VUELO IMPRUDENCIAL .
   date: 20250501
   author: Admin
-  image: /content/images/yair-sanchez.jpg
+  image: /content/images/yahir.jpg
   excerpt: Ex Miembro Activo de Clan Drones
   tags:
     - EXPULSADO 
