@@ -1,18 +1,18 @@
 meta:
-  title: Expulsado.
+  title: EXPULSADO POR VUELO IMPRUDENCIAL .
   date: 20250501
   author: Admin
   image: /content/images/yair-sanchez.jpg
   excerpt: Ex Miembro Activo de Clan Drones
   tags:
-    - miembro
+    - EXPULSADO 
 
 # EXPULSADO POR VUELO IMPRUDENCIAL.
 **Nombre:** EXPULSADO.
 
 **Localidad:** Guadalajara Jalisco.
 
-**Drone:** Dron: Dji Avata2 , Dji Mini 4 Pro, Dji Neo 
+**Drone:** No Info 
 
 **Instagram:** ()
 
