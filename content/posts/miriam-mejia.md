@@ -1,14 +1,14 @@
 meta:
-  title: Miriam M.
+  title: Baja Voluntaria - Miriam M.
   date: 20241003
   author: Admin
   image: /content/images/miriam-mejia.jpg
-  excerpt: Miembro de Clan Drones
+  excerpt: Ex Miembro de Clan Drones
   tags:
     - miembro
 
-# Miriam M.
-**Nombre:** Miriam T.
+# Baja Voluntaria - Miriam M.
+**Nombre:** Baja Voluntaria - Miriam T.
 
 **Localidad:** Playa del Carmen, México
 
