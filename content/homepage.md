@@ -1,8 +1,8 @@
 
 
-# ClanDrones - Comunidad de Droneros a nivel Internacional   
+# ClanDrones - Comunidad de Droneros a nivel Internacional.   
 
-# En ClanDrones tenemos un espacio para ti, ¿tienes dron y quieres compartir tu contenido y/o ver contenido de otros paises?  
+# En ClanDrones tenemos un espacio para ti, ¿tienes dron y quieres compartir tu contenido y/o ver contenido de otros paises?.  
 
   
 
