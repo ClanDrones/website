@@ -2,7 +2,7 @@ meta:
   title: Dji Avata 2
   date: 20240905
   author: Admin
-  image: /content/images/mini-5-pro-web.png
+  image: /content/images/avata2.mp4
   excerpt: De los Drones mas solicitados del mercado. 
   tags:
     - entrada
@@ -69,4 +69,4 @@ Sobre todo útil para aquellas personas que ya tengan otros drones con estos man
 
 # ¿Y tu cual tienes?:  
 
-![header](/content/70ab503a-94e7-42e4-967b-bfe446d2d87c (1).webm)
+![header](/content/avata2.mp4)
