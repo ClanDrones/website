@@ -6,7 +6,7 @@
 
   
 
-![](/content/images/header2.jpg)
+![](/content/images/2years.jpg)
 
 ## Importante para los que tienen Gafete | Clan Drones ya no reconoce como válido ese diseño.  
 ## Debido a temas de seguridad y temas del mismo índole, ese diseño ya no tiene validez. |   
