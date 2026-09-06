@@ -2,7 +2,7 @@ meta:
   title: Alex fpv / Alexander V.
   date: 20260905
   author: Admin
-  image: /content/images/alexfpv.jpg
+  image: /content/images/alexpfv.jpg
   excerpt: Miembro Activo de Clan Drones
   tags:
     - miembro
