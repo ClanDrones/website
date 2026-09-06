@@ -69,4 +69,4 @@ Sobre todo útil para aquellas personas que ya tengan otros drones con estos man
 
 # ¿Y tu cual tienes?:  
 
-![header](/content/images/mini-5-pro-web.png)
+![header](/content/70ab503a-94e7-42e4-967b-bfe446d2d87c (1).webm)
