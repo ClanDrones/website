@@ -1,8 +1,8 @@
 meta:
-  title: Dji Mini 4 Pro
+  title: Dji Mini 5 Pro
   date: 20240905
   author: Admin
-  image: /content/images/djimini4-pro.jpg
+  image: /content/images/mini-5-pro-web.png
   excerpt: De los Drones mas solicitados del mercado. 
   tags:
     - entrada
@@ -95,3 +95,5 @@ Con el Mini 4 Pro, ActiveTrack ahora ofrece el modo de seguimiento y la capacida
 El DJI Mini 5 Pro representa un salto significativo dentro de la serie Mini: mejora muy sustancial en cámara, sensores, transmisión y tiempo de vuelo, todo manteniéndose ligero y portátil. Para creadores de contenido que requieren calidad visual avanzada sin cargar con un dron grande, es una opción sumamente atractiva.
 
 Si planeas comprarlo, vale la pena considerar las leyes locales de drones, especialmente temas de peso, certificaciones y registros, ya que estar justo bajo 250 g es una ventaja, pero cualquier accesorio (protector de hélices, baterías grandes) podría afectar el cumplimiento legal.
+
+![header](/content/images/mini-5-pro-web.png)
